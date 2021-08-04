@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fheasysoft
+- 👀 I’m interested in Code. Yummy
+- 🌱 I’m currently learning API related stuff
+- 📫 How to reach me f.hennig |at| easysoft .de 
